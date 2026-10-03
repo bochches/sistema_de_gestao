@@ -1,6 +1,6 @@
 # Canvas do Projeto
 
-**Projeto:** Aplicativo de Gestão para Transporte Alternativo · **Equipe:** Thayná Fortunato, Wendrieley Clara, Carolaine Silva· **Data:** 15/09/2026 · **Organização parceira:** Loja de açaí
+**Projeto:** Sistema de gestão · **Equipe:** Thayná Fortunato, Wendrieley Clara, Carolaine Silva· **Data:** 15/09/2026 · **Organização parceira:** Loja de açaí - Sorver Frios
 
 ---
 
