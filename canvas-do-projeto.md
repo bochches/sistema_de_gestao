@@ -66,6 +66,7 @@ Os tamanhos atualmente comercializados são:
 - P;
 - M;
 - G.
+  
 Entre os principais complementos estão:
 
 - Leite;
